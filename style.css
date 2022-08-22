@@ -1,25 +1,4 @@
 style.css
-Quem pode acessar
-
-Propriedades do sistema
-Tipo
-Folha de estilo
-Tamanho
-5 KB
-Armazenamento usado
-10 KB
-Local
-day 06
-Proprietário
-Daniel Santos
-Modificado
-28 de abr. de 2022 por Daniel Santos
-Aberto
-16:25 por mim
-Criado em
-10 de abr. de 2022
-Sem descrição
-Os leitores podem fazer o download
 * {
     margin: 0;
     padding: 0;
@@ -29,7 +8,7 @@ Os leitores podem fazer o download
 }
 
 body {
-    background-color: #cedfeb;
+    background-color: #70c6c7;
 }
 
 .resume-contents {
@@ -43,13 +22,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #52ceff;
+    background-color: #00204A;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #011729;
+    background-color: #4B6982;
     border-radius: 0px 60px 0px 0px;
 }
 
